@@ -1,4 +1,6 @@
-/*Copy elements from one array to another array*/
+/**
+*Copy elements from one array to another array
+*/
 var arr1=[1,2,3,5,6]
 var arr2=[arr1.length]
 
